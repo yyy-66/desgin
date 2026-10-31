@@ -1,0 +1,161 @@
+[
+ {
+  "slide": 1,
+  "texts": [],
+  "images": [
+   "ppt/media/image1.jpeg",
+   "ppt/media/image2.jpeg",
+   "ppt/media/image3.jpeg",
+   "ppt/media/image4.jpeg",
+   "ppt/media/image5.jpeg",
+   "ppt/media/image6.jpeg",
+   "ppt/media/image7.jpeg",
+   "ppt/media/image8.jpeg",
+   "ppt/media/image9.jpeg",
+   "ppt/media/image10.jpeg"
+  ],
+  "pics": []
+ },
+ {
+  "slide": 2,
+  "texts": [
+   "封面文字：四口之家",
+   "住宅空间",
+   " · ",
+   "惠州",
+   " · ",
+   "166",
+   "㎡",
+   " · 2023",
+   "项目情况：已交付"
+  ],
+  "images": [],
+  "pics": []
+ },
+ {
+  "slide": 3,
+  "texts": [],
+  "images": [
+   "ppt/media/image11.png",
+   "ppt/media/image12.png",
+   "ppt/media/image13.png",
+   "ppt/media/image14.png"
+  ],
+  "pics": []
+ },
+ {
+  "slide": 4,
+  "texts": [
+   "封面文字：",
+   "白鹭宅",
+   "住宅空间",
+   " · ",
+   "惠州",
+   " · ",
+   "250",
+   "㎡",
+   " · 2023",
+   "项目情况：已交付"
+  ],
+  "images": [],
+  "pics": []
+ },
+ {
+  "slide": 5,
+  "texts": [],
+  "images": [
+   "ppt/media/image15.jpeg",
+   "ppt/media/image16.jpeg",
+   "ppt/media/image17.jpeg",
+   "ppt/media/image18.jpeg",
+   "ppt/media/image19.jpeg",
+   "ppt/media/image20.jpeg",
+   "ppt/media/image21.jpeg",
+   "ppt/media/image22.jpeg"
+  ],
+  "pics": []
+ },
+ {
+  "slide": 6,
+  "texts": [
+   "封面文字：广州",
+   "L",
+   "宅",
+   "住宅空间",
+   " · ",
+   "广州",
+   " · ",
+   "280",
+   "㎡",
+   " · 2025",
+   "项目情况：未开工"
+  ],
+  "images": [],
+  "pics": []
+ },
+ {
+  "slide": 7,
+  "texts": [],
+  "images": [
+   "ppt/media/image23.jpeg",
+   "ppt/media/image24.jpeg",
+   "ppt/media/image25.jpeg",
+   "ppt/media/image26.jpeg",
+   "ppt/media/image27.jpeg",
+   "ppt/media/image28.jpeg",
+   "ppt/media/image29.jpeg",
+   "ppt/media/image30.jpeg",
+   "ppt/media/image31.jpeg"
+  ],
+  "pics": []
+ },
+ {
+  "slide": 8,
+  "texts": [
+   "封面文字：广州",
+   "W",
+   "宅",
+   "住宅空间",
+   " · ",
+   "广州",
+   " · ",
+   "280",
+   "㎡",
+   " · 2025",
+   "项目情况：未开工"
+  ],
+  "images": [],
+  "pics": []
+ },
+ {
+  "slide": 9,
+  "texts": [],
+  "images": [
+   "ppt/media/image32.jpeg",
+   "ppt/media/image33.png",
+   "ppt/media/image34.png",
+   "ppt/media/image35.png",
+   "ppt/media/image36.png",
+   "ppt/media/image37.png",
+   "ppt/media/image38.png",
+   "ppt/media/image39.png"
+  ],
+  "pics": []
+ },
+ {
+  "slide": 10,
+  "texts": [
+   "封面文字：新生",
+   "住宅空间",
+   " · ",
+   "惠州",
+   " · ",
+   "140",
+   "㎡",
+   " · 2026",
+   "项目情况：施工中"
+  ],
+  "images": [],
+  "pics": []
+ }
+]
