@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>陳浩文 · 室内设计作品集</title>
-  <meta name="description" content="室内设计师作品集 —— 住宅与商业空间设计">
+  <meta name="description" content="室内设计师作品集 —— 商业空间 / 私宅 / 文旅·城市更新">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
   <!-- 顶部导航 -->
-  <header class="site-header" id="siteHeader">
-    <a class="logo" href="#top">LIN<span>·</span>YU<em>陳浩文设计</em></a>
+  <header class="site-header on-dark" id="siteHeader">
+    <a class="logo" href="#top">陳浩文<em>设计作品集</em></a>
     <nav class="site-nav">
       <a href="#works">作品</a>
       <a href="#about">关于</a>
@@ -22,82 +22,35 @@
     </button>
   </header>
 
-  <!-- 首屏 -->
+  <!-- 首屏（背景图） -->
   <section class="hero" id="top">
-    <p class="hero-kicker reveal">Interior Design Portfolio · 2020 — 2026</p>
-    <h1 class="hero-title">
-      <span class="line reveal">以光与材料，</span>
-      <span class="line reveal">构筑居住的诗意。</span>
-    </h1>
-    <p class="hero-sub reveal">你好，我是陳浩文 —— 一名专注住宅与小型商业空间的室内设计师。<br>我相信好的设计是克制而温暖的，它安静地服务于生活本身。</p>
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="hero-content">
+      <p class="hero-kicker reveal">Interior Design Portfolio · 2022 — 2026</p>
+      <h1 class="hero-title">
+        <span class="line reveal">以光与材料，</span>
+        <span class="line reveal">构筑空间的诗意。</span>
+      </h1>
+      <p class="hero-sub reveal">你好，我是陳浩文 —— 一名专注商业空间、私宅与文旅项目的室内设计师。<br>我相信好的设计是克制而温暖的，它安静地服务于生活本身。</p>
+    </div>
     <a class="hero-scroll reveal" href="#works">
       <span>向下浏览作品</span>
       <i class="scroll-line"></i>
     </a>
   </section>
 
-  <!-- 作品列表 -->
+  <!-- 作品列表（由 js/projects.js 数据渲染） -->
   <section class="works" id="works">
     <div class="section-head">
       <h2 class="section-title reveal">精选作品</h2>
       <div class="filters reveal" id="filters">
         <button class="filter is-active" data-filter="all">全部</button>
-        <button class="filter" data-filter="residential">住宅空间</button>
         <button class="filter" data-filter="commercial">商业空间</button>
+        <button class="filter" data-filter="residential">私宅</button>
+        <button class="filter" data-filter="culture">文旅 · 城市更新</button>
       </div>
     </div>
-
-    <div class="works-grid" id="worksGrid">
-
-      <article class="work-card tall reveal" data-category="residential" data-index="0">
-        <div class="work-media"><img src="images/project-01.png" alt="洄光之宅 客厅" loading="lazy"></div>
-        <div class="work-info">
-          <h3>洄光之宅</h3>
-          <p>住宅空间 · 北京 · 156㎡ · 2025</p>
-        </div>
-      </article>
-
-      <article class="work-card reveal" data-category="residential" data-index="1">
-        <div class="work-media"><img src="images/project-02.png" alt="栖木 主卧" loading="lazy"></div>
-        <div class="work-info">
-          <h3>栖木</h3>
-          <p>住宅空间 · 杭州 · 98㎡ · 2024</p>
-        </div>
-      </article>
-
-      <article class="work-card reveal" data-category="residential" data-index="2">
-        <div class="work-media"><img src="images/project-03.png" alt="石语 厨房" loading="lazy"></div>
-        <div class="work-info">
-          <h3>石语</h3>
-          <p>住宅空间 · 上海 · 130㎡ · 2024</p>
-        </div>
-      </article>
-
-      <article class="work-card reveal" data-category="residential" data-index="3">
-        <div class="work-media"><img src="images/project-04.png" alt="空谷 茶室" loading="lazy"></div>
-        <div class="work-info">
-          <h3>空谷</h3>
-          <p>住宅空间 · 成都 · 42㎡ · 2023</p>
-        </div>
-      </article>
-
-      <article class="work-card wide reveal" data-category="commercial" data-index="4">
-        <div class="work-media"><img src="images/project-05.png" alt="山halo 餐厅" loading="lazy"></div>
-        <div class="work-info">
-          <h3>山·halo</h3>
-          <p>商业空间 · 深圳 · 260㎡ · 2025</p>
-        </div>
-      </article>
-
-      <article class="work-card reveal" data-category="residential" data-index="5">
-        <div class="work-media"><img src="images/project-06.png" alt="沐石 浴室" loading="lazy"></div>
-        <div class="work-info">
-          <h3>沐石</h3>
-          <p>住宅空间 · 苏州 · 76㎡ · 2023</p>
-        </div>
-      </article>
-
-    </div>
+    <div class="works-grid" id="worksGrid"><!-- JS 渲染 --></div>
   </section>
 
   <!-- 关于 -->
@@ -105,22 +58,22 @@
     <div class="about-grid">
       <div class="about-text reveal">
         <h2 class="section-title">关于我</h2>
-        <p>从事室内设计八年，完成住宅与商业项目六十余个。我的设计方法从「场所」与「居住者」出发：先理解光如何进入空间、人如何在其中生活，再决定材料、颜色与形态。</p>
+        <p>专注室内设计，项目覆盖商业空间、私人住宅与文旅 · 城市更新三类。我的设计方法从「场所」与「使用者」出发：先理解光如何进入空间、人如何在其中活动，再决定材料、颜色与形态。</p>
         <p>相较于风格化标签，我更关注空间的秩序感、材料的真实质地，以及经得起时间考验的克制美学。</p>
       </div>
       <div class="about-facts">
-        <div class="fact reveal"><strong>8<span>年</span></strong><p>设计从业经验</p></div>
-        <div class="fact reveal"><strong>60<span>+</span></strong><p>落地项目</p></div>
-        <div class="fact reveal"><strong>12<span>项</span></strong><p>设计奖项与发表</p></div>
+        <div class="fact reveal"><strong>19<span>个</span></strong><p>收录项目</p></div>
+        <div class="fact reveal"><strong>3<span>类</span></strong><p>商业 · 私宅 · 文旅</p></div>
+        <div class="fact reveal"><strong>2022—26<span></span></strong><p>作品时间跨度</p></div>
       </div>
     </div>
     <div class="services reveal">
       <h3>服务范围</h3>
       <ul>
-        <li>住宅空间全案设计</li>
-        <li>小型商业空间设计</li>
-        <li>软装陈设与选材顾问</li>
-        <li>施工图深化与落地陪同</li>
+        <li>商业空间全案设计</li>
+        <li>私人住宅全案设计</li>
+        <li>文旅 · 民宿项目设计</li>
+        <li>软装陈设与落地陪同</li>
       </ul>
     </div>
   </section>
@@ -130,10 +83,9 @@
     <h2 class="contact-title reveal">让我们聊聊<br>你的下一个空间。</h2>
     <div class="contact-links reveal">
       <a href="mailto:hello@example.com">hello@example.com</a>
-      <a href="#" target="_blank" rel="noopener">作品集 PDF 备用链接</a>
     </div>
     <footer class="site-footer">
-      <p>© 2026 陳浩文设计 LIN·YU STUDIO · 微信：LINYU-DESIGN</p>
+      <p>© 2026 陳浩文设计作品集 · 图片版权归作者所有，未经许可请勿转载</p>
       <p class="top-link"><a href="#top">回到顶部 ↑</a></p>
     </footer>
   </section>
@@ -144,16 +96,41 @@
     <button class="overlay-nav prev" id="overlayPrev" aria-label="上一个">&larr;</button>
     <button class="overlay-nav next" id="overlayNext" aria-label="下一个">&rarr;</button>
     <div class="overlay-body">
-      <div class="overlay-media"><img id="overlayImg" src="" alt=""></div>
-      <div class="overlay-text">
-        <p class="overlay-no" id="overlayNo">01 / 06</p>
-        <h2 id="overlayTitle"></h2>
+      <!-- 文字在上 -->
+      <div class="overlay-head">
+        <p class="overlay-no" id="overlayNo">01 / 19</p>
+        <h2 class="overlay-title" id="overlayTitle"></h2>
         <p class="overlay-meta" id="overlayMeta"></p>
-        <p class="overlay-desc" id="overlayDesc"></p>
+        <p class="overlay-status" id="overlayStatus"></p>
       </div>
+      <!-- 瀑布流图片在下 -->
+      <div class="masonry" id="overlayGallery"><!-- JS 渲染 --></div>
     </div>
   </div>
 
+  <!-- 版权提示条 -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <!-- 图片灯箱（详情内点击图片放大） -->
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <div class="lb-bar">
+      <span class="lb-counter" id="lbCounter">01 / 12</span>
+      <div class="lb-tools">
+        <button class="lb-btn" id="lbZoomOut" aria-label="缩小">&minus;</button>
+        <button class="lb-btn lb-zoom-val" id="lbZoomReset" aria-label="重置缩放">100%</button>
+        <button class="lb-btn" id="lbZoomIn" aria-label="放大">&plus;</button>
+        <button class="lb-btn lb-close" id="lbClose" aria-label="关闭">&times;</button>
+      </div>
+    </div>
+    <button class="lb-nav prev" id="lbPrev" aria-label="上一张">&larr;</button>
+    <button class="lb-nav next" id="lbNext" aria-label="下一张">&rarr;</button>
+    <div class="lb-stage" id="lbStage">
+      <img id="lbImg" src="" alt="">
+    </div>
+    <p class="lb-hint">滚轮 / 双击缩放 · 放大后拖拽查看细节 · Esc 关闭</p>
+  </div>
+
+  <script src="js/projects.js"></script>
   <script src="js/main.js"></script>
 </body>
 </html>
