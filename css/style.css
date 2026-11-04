@@ -287,59 +287,15 @@ a { color: inherit; text-decoration: none; }
 }
 .fact strong span { font-size: 16px; margin-left: 4px; color: var(--accent); }
 .fact p { font-size: 13px; color: var(--ink-soft); letter-spacing: 0.15em; }
-.services { margin-top: 90px; }
-.services h3 {
-  font-size: 13px;
-  letter-spacing: 0.3em;
-  color: var(--ink-soft);
-  margin-bottom: 24px;
-}
-.services ul {
-  list-style: none;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 20px;
-}
-.services li {
-  border-top: 1px solid var(--ink);
-  padding-top: 16px;
-  font-family: var(--serif);
-  font-size: 17px;
-  letter-spacing: 0.08em;
-}
 
 /* ---------- 联系 ---------- */
 .contact {
-  padding: 160px 5vw 0;
+  padding: 0px 5vw 0;
   border-top: 1px solid var(--line);
   text-align: center;
 }
-.contact-title {
-  font-family: var(--serif);
-  font-size: clamp(34px, 5vw, 64px);
-  font-weight: 600;
-  line-height: 1.4;
-  letter-spacing: 0.04em;
-}
-.contact-links {
-  margin-top: 48px;
-  display: flex;
-  justify-content: center;
-  gap: 48px;
-  flex-wrap: wrap;
-}
-.contact-links a {
-  font-size: 15px;
-  letter-spacing: 0.12em;
-  border-bottom: 1px solid var(--ink);
-  padding-bottom: 4px;
-  transition: color 0.3s, border-color 0.3s;
-}
-.contact-links a:hover { color: var(--accent); border-color: var(--accent); }
 .site-footer {
-  margin-top: 120px;
   padding: 28px 0;
-  border-top: 1px solid var(--line);
   display: flex;
   justify-content: space-between;
   font-size: 12px;
