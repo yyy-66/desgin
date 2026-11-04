@@ -20,12 +20,6 @@
     return parts.join(" · ");
   }
 
-  function statusClass(p) {
-    if (p.status === "已交付") return "is-ok";
-    if (p.status === "施工中" || p.status === "未开工") return "is-pending";
-    return "is-stopped";
-  }
-
   grid.innerHTML = projects.map(function (p, i) {
     return '' +
       '<article class="work-card reveal" data-category="' + p.cat + '" data-index="' + i + '">' +
@@ -107,8 +101,8 @@
   var overlay = document.getElementById("projectOverlay");
   var overlayTitle = document.getElementById("overlayTitle");
   var overlayMeta = document.getElementById("overlayMeta");
-  var overlayStatus = document.getElementById("overlayStatus");
   var overlayNo = document.getElementById("overlayNo");
+  var overlayDesc = document.getElementById("overlayDesc");
   var galleryEl = document.getElementById("overlayGallery");
   var current = 0;
 
@@ -119,8 +113,18 @@
     overlayNo.textContent = pad(current + 1) + " / " + pad(projects.length);
     overlayTitle.textContent = p.title;
     overlayMeta.textContent = metaText(p);
-    overlayStatus.innerHTML = '<span class="tag">项目情况</span>' + p.status;
-    overlayStatus.className = "overlay-status " + statusClass(p);
+
+    // 项目说明（替代原「项目情况 / 已交付」）——无说明的项目整块隐藏
+    var desc = p.desc || [];
+    if (desc.length) {
+      overlayDesc.innerHTML = desc.map(function (para) {
+        return "<p>" + para + "</p>";
+      }).join("");
+      overlayDesc.style.display = "";
+    } else {
+      overlayDesc.innerHTML = "";
+      overlayDesc.style.display = "none";
+    }
 
     // 瀑布流图片：保持原始宽高比（width/height 提示避免布局跳动）
     // 每张图覆盖一层透明遮罩：屏蔽右键另存 / 长按保存 / 拖拽，点击仍可打开灯箱
