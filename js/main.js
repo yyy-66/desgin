@@ -23,7 +23,7 @@
   grid.innerHTML = projects.map(function (p, i) {
     return '' +
       '<article class="work-card reveal" data-category="' + p.cat + '" data-index="' + i + '">' +
-        '<div class="work-media"><img src="' + p.cover + '" alt="' + p.title + '" loading="lazy" draggable="false">' +
+        '<div class="work-media"><i class="media-blur" aria-hidden="true" style="background-image:url(' + p.cover + ')"></i><img src="' + p.cover + '" alt="' + p.title + '" loading="lazy" draggable="false">' +
         '<span class="img-shield" aria-hidden="true"></span></div>' +
         '<div class="work-info">' +
           '<h3>' + p.title + '</h3>' +

@@ -864,7 +864,7 @@ var PROJECTS = [
   "area": "280㎡",
   "year": "2025",
   "desc": [],
-  "cover": "images/p14/05.jpg",
+  "cover": "images/p14/01.jpg",
   "gallery": [
    {
     "src": "images/p14/01.jpg",
