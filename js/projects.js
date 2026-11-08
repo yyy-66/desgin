@@ -14,65 +14,65 @@ var PROJECTS = [
    "品牌符号 U 被拆解运用在入口与室内，虚实对照强化识别；一边是克制冷峻的黑白摄影画廊，另一边是接纳阳光的双通道，前台兼顾接待、聚会与艺术展示。走到廊道尽头，一束光成为体验的收尾。",
    "整个项目不去做直白的商业推销，而是依靠空间叙事传递摄影的艺术价值。人走过六米长廊，完成一次内心的转换，这既是一次拍摄的开始，也是一场关于自我的短暂探索。"
   ],
-  "cover": "images/p01/03.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/03.jpg",
   "gallery": [
    {
-    "src": "images/p01/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/01.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p01/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/02.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p01/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/03.jpg",
     "w": 1800,
     "h": 1200
    },
    {
-    "src": "images/p01/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/04.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p01/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/05.jpg",
     "w": 1800,
     "h": 1200
    },
    {
-    "src": "images/p01/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/06.jpg",
     "w": 1800,
     "h": 1200
    },
    {
-    "src": "images/p01/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/07.jpg",
     "w": 1800,
     "h": 1200
    },
    {
-    "src": "images/p01/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/08.jpg",
     "w": 1297,
     "h": 1800
    },
    {
-    "src": "images/p01/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/09.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p01/10.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/10.jpg",
     "w": 1800,
     "h": 1200
    },
    {
-    "src": "images/p01/11.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/11.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p01/12.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p01/12.jpg",
     "w": 1200,
     "h": 1800
    }
@@ -94,55 +94,55 @@ var PROJECTS = [
    "空间整体采用大量圆弧、拱形门洞和连续曲面，弱化尖锐转角，也弱化传统美容空间常见的装饰感。动线从入口、前厅、等候区到独立护理房，层层递进，灯光逐渐降低，空间边界逐渐收窄，形成一种自然的情绪过渡。我们希望顾客不是被「告知」这是一个美肤空间，而是通过行走、光线和材质，自然地进入放松状态。",
    "因此，这个项目的设计重点，并不是把美容概念生硬地翻译成装饰语言，而是通过界面、材质、灯光和动线，营造一种具有疗愈属性的女性场所。"
   ],
-  "cover": "images/p02/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/01.jpg",
   "gallery": [
    {
-    "src": "images/p02/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/01.jpg",
     "w": 1800,
     "h": 1245
    },
    {
-    "src": "images/p02/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/02.jpg",
     "w": 1800,
     "h": 1200
    },
    {
-    "src": "images/p02/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/03.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p02/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/04.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p02/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/05.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p02/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/06.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p02/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/07.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p02/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/08.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p02/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/09.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p02/10.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p02/10.jpg",
     "w": 1800,
     "h": 1137
    }
@@ -162,40 +162,40 @@ var PROJECTS = [
    "这些异形构件同时也承担空间划分的作用，自然分隔出击球体验区、商务洽谈区和产品展示廊道，在同一个大空间里面，形成互不干扰、尺度丰富的场景，满足客人打球、会客、交流的复合需求。",
    "我们希望客人进入空间，第一眼就能感受到流畅松弛的氛围，而不只是一个单纯的模拟器场馆，把高尔夫这项运动自带的优雅、自由的特质，放进室内环境里。"
   ],
-  "cover": "images/p03/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p03/01.jpg",
   "gallery": [
    {
-    "src": "images/p03/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p03/01.jpg",
     "w": 1800,
     "h": 1800
    },
    {
-    "src": "images/p03/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p03/02.jpg",
     "w": 1800,
     "h": 1800
    },
    {
-    "src": "images/p03/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p03/03.jpg",
     "w": 1800,
     "h": 706
    },
    {
-    "src": "images/p03/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p03/04.jpg",
     "w": 1800,
     "h": 953
    },
    {
-    "src": "images/p03/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p03/05.jpg",
     "w": 1800,
     "h": 1800
    },
    {
-    "src": "images/p03/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p03/06.jpg",
     "w": 1800,
     "h": 1800
    },
    {
-    "src": "images/p03/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p03/07.jpg",
     "w": 1800,
     "h": 828
    }
@@ -215,45 +215,45 @@ var PROJECTS = [
    "进入主空间，连续排布的不锈钢波浪肋条，墙顶一体化延续包裹，有序起伏的曲面肌理持续强化流动的动态感，把入口萌发的情绪向内延续。设计最大化保留立面开窗，将东江与老城夜景纳入空间视野，让城市夜色成为空间天然背景。一体化的波浪界面弱化墙体、天花的边界，包裹式的形态带来强烈的沉浸感，让访客暂时抽离外部环境，专注于当下的夜晚体验。",
    "整体设计不局限于餐饮酒水功能，以抵达动线、前置打卡装置、沉浸式波浪空间、城市夜景取景共同编织完整的情绪链条，回应 REMEMBER 的内核：创造一处有记忆点的城市夜归地址，让每一次到访，都留下可被记住的夜晚体验。"
   ],
-  "cover": "images/p04/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p04/01.jpg",
   "gallery": [
    {
-    "src": "images/p04/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p04/01.jpg",
     "w": 1800,
     "h": 1350
    },
    {
-    "src": "images/p04/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p04/02.jpg",
     "w": 1800,
     "h": 1350
    },
    {
-    "src": "images/p04/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p04/03.jpg",
     "w": 1800,
     "h": 1350
    },
    {
-    "src": "images/p04/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p04/04.jpg",
     "w": 1800,
     "h": 1125
    },
    {
-    "src": "images/p04/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p04/05.jpg",
     "w": 1800,
     "h": 1000
    },
    {
-    "src": "images/p04/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p04/06.jpg",
     "w": 1800,
     "h": 910
    },
    {
-    "src": "images/p04/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p04/07.jpg",
     "w": 1800,
     "h": 1000
    },
    {
-    "src": "images/p04/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p04/08.jpg",
     "w": 1800,
     "h": 1125
    }
@@ -273,65 +273,65 @@ var PROJECTS = [
    "从一层办公往下走，通过楼梯完成情绪转换：上面是高效理性的办公环境，到负一层就进入安静私密的会所。会客、吧台、包厢、客房顺着异形边界自然分布，在不规整的场地里面梳理出流畅的动线。",
    "回望整个创作过程尤为难得，甲方对于比例、材质、结构的感知和我们高度同频。项目推进期间，甲方全程深度参与，和设计团队一同加班、反复推敲细节。最终的空间成果，是设计师与业主双向理解、高度协同融合之下共同完成的作品。"
   ],
-  "cover": "images/p05/04.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/04.jpg",
   "gallery": [
    {
-    "src": "images/p05/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/01.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p05/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/02.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p05/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/03.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p05/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/04.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p05/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/05.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p05/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/06.jpg",
     "w": 1800,
     "h": 1440
    },
    {
-    "src": "images/p05/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/07.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p05/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/08.jpg",
     "w": 1800,
     "h": 1200
    },
    {
-    "src": "images/p05/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/09.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p05/10.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/10.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p05/11.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/11.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p05/12.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p05/12.jpg",
     "w": 1200,
     "h": 1800
    }
@@ -352,60 +352,60 @@ var PROJECTS = [
    "空间里这几组从环境里生长出来的圆环，是整个区域的视觉重点。CBD 的都市生活是持续向前、循环往复的，这些圆环就像是节奏里的间歇节点。在一环接一环紧凑的工作间隙里，这里就是一个可以停下来的断点，白领可以下楼，短暂抽离忙碌，获得一段松弛的缓冲。",
    "它不是一个高高在上的先锋装置，而是嵌入繁华商圈、适配都市上班族节奏的停留空间，先锋的形式落脚在日常的都市休憩需求上。"
   ],
-  "cover": "images/p06/07.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/07.jpg",
   "gallery": [
    {
-    "src": "images/p06/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/01.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p06/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/02.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p06/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/03.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p06/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/04.jpg",
     "w": 1800,
     "h": 1364
    },
    {
-    "src": "images/p06/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/05.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p06/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/06.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p06/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/07.jpg",
     "w": 1800,
     "h": 1343
    },
    {
-    "src": "images/p06/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/08.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p06/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/09.jpg",
     "w": 1800,
     "h": 1107
    },
    {
-    "src": "images/p06/10.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/10.jpg",
     "w": 1200,
     "h": 1800
    },
    {
-    "src": "images/p06/11.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p06/11.jpg",
     "w": 1200,
     "h": 1800
    }
@@ -425,80 +425,80 @@ var PROJECTS = [
    "前厅以美术馆式的留白、通高的光环境形成叙事序厅，以虚空先行，剥离冗余信息，建立观者的观瞻状态。随着动线深入，空间转入收束的异形隧道，通过照度的消隐、曲面边界的拓扑分割，完成叙事转场。在有限的场地容量内，依靠空间界面的形变，实现场景的单元化分置，让每一处场域都形成独立的感知框景，产品置于框景之内，成为叙事文本的核心物象。",
    "整条游览动线是一段连续的知觉序列：观者在漫游中依次接收产品、材质与氛围信息，叙事的终点落于茶室洽谈空间。空间通过知觉节奏的编排，完成从审美静观、产品阅读到商务对话的叙事闭环，使空间体验自然服务于品牌传播与商业转化。"
   ],
-  "cover": "images/p07/14.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/14.jpg",
   "gallery": [
    {
-    "src": "images/p07/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/01.jpg",
     "w": 1800,
     "h": 1440
    },
    {
-    "src": "images/p07/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/02.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/03.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/04.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/05.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/06.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/07.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/08.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/09.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/10.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/10.jpg",
     "w": 1187,
     "h": 1800
    },
    {
-    "src": "images/p07/11.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/11.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/12.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/12.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p07/13.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/13.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p07/14.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/14.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p07/15.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p07/15.jpg",
     "w": 1201,
     "h": 1800
    }
@@ -513,45 +513,45 @@ var PROJECTS = [
   "area": "120㎡",
   "year": "2024",
   "desc": [],
-  "cover": "images/p08/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p08/01.jpg",
   "gallery": [
    {
-    "src": "images/p08/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p08/01.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p08/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p08/02.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p08/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p08/03.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p08/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p08/04.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p08/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p08/05.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p08/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p08/06.jpg",
     "w": 1800,
     "h": 1200
    },
    {
-    "src": "images/p08/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p08/07.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p08/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p08/08.jpg",
     "w": 1800,
     "h": 1201
    }
@@ -571,75 +571,75 @@ var PROJECTS = [
    "受原有村宅结构条件限制，建筑主体不具备大规模拆改条件，设计采取低干预微更新策略，以修饰、优化、整合为主，保留原生建筑骨架。场地朝向江面形成三层竖向高差，我们将下行滨江的交通动线与休憩场景一体化整合，步道同时承载沿江坐憩功能。傍晚时分，访客可沿台阶落座，面向东江，承接江面、晚霞与水岸景观，将高差劣势转化为体验核心。",
    "整体改造尊重场地基底，以轻介入的方式释放江景价值，让建筑成为观景的容器，依托自然山水资源承载近郊都市人群短时逃离、临江松弛度假的需求。"
   ],
-  "cover": "images/p09/08.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/08.jpg",
   "gallery": [
    {
-    "src": "images/p09/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/01.jpg",
     "w": 1440,
     "h": 1080
    },
    {
-    "src": "images/p09/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/02.jpg",
     "w": 1440,
     "h": 1080
    },
    {
-    "src": "images/p09/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/03.jpg",
     "w": 1440,
     "h": 1080
    },
    {
-    "src": "images/p09/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/04.jpg",
     "w": 1350,
     "h": 1800
    },
    {
-    "src": "images/p09/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/05.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p09/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/06.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p09/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/07.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p09/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/08.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p09/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/09.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p09/10.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/10.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p09/11.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/11.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p09/12.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/12.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p09/13.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/13.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p09/14.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p09/14.jpg",
     "w": 1800,
     "h": 1012
    }
@@ -658,45 +658,45 @@ var PROJECTS = [
    "经由完整的商业研判、场地规划至建筑一体化设计，将项目定位为集亲子自然研学、团建聚会、户外婚礼于一体的复合露营目的地。",
    "建筑形体以三角尖顶体量咬合水平舒展的长条体块，竖向抬升的三角单元一方面形成场地标识，在湿地开阔地貌中建立远距离辨识度；同时抬升出二层观景平台，拓展面向湿地的俯瞰视野。建筑界面采用开放消解的策略，摒弃封闭围合，持续建立建筑与湿地环境之间的视觉与空间通联，促成建筑与自然的共生对话。整体选用低饱和度的材质与色调，克制人工建造的存在感，以谦逊的姿态回应原生湿地景观，消隐于场地生态之中。"
   ],
-  "cover": "images/p10/05.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p10/05.jpg",
   "gallery": [
    {
-    "src": "images/p10/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p10/01.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p10/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p10/02.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p10/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p10/03.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p10/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p10/04.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p10/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p10/05.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p10/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p10/06.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p10/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p10/07.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p10/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p10/08.jpg",
     "w": 1800,
     "h": 1012
    }
@@ -715,45 +715,45 @@ var PROJECTS = [
    "我们延续了之前合作建立的默契，反复沟通、一同头脑风暴，即便时隔数年没有对接，设计提案依旧一稿通过。工作室窗外直面城市公园，时时刻刻都涌动着蓬勃的生机，这份外部的自然感受，成为我们空间营造的核心锚点。",
    "设计弱化舞蹈教室固有的秩序范式，以原木、活体绿植作为空间肌理，搭配吊扇烘托松弛氛围；家具不再采用规整对称的排布方式，以去中心化、自由散落的布局，消解生硬的人为秩序。室内的自然意象与窗外的原生公园景观形成互文，把外面流动的生机感引入室内。空间不再仅仅是舞蹈训练的容器，而是一处容纳身体舒展、情绪安放的知觉场所，以柔和的自然性，回应使用者自我重建、持续生长的内在需求。"
   ],
-  "cover": "images/p11/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p11/01.jpg",
   "gallery": [
    {
-    "src": "images/p11/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p11/01.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p11/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p11/02.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p11/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p11/03.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p11/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p11/04.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p11/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p11/05.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p11/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p11/06.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p11/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p11/07.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p11/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p11/08.jpg",
     "w": 1350,
     "h": 1800
    }
@@ -768,55 +768,55 @@ var PROJECTS = [
   "area": "166㎡",
   "year": "2023",
   "desc": [],
-  "cover": "images/p12/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/01.jpg",
   "gallery": [
    {
-    "src": "images/p12/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/01.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p12/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/02.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p12/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/03.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p12/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/04.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p12/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/05.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p12/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/06.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p12/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/07.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p12/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/08.jpg",
     "w": 1201,
     "h": 1800
    },
    {
-    "src": "images/p12/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/09.jpg",
     "w": 1800,
     "h": 1201
    },
    {
-    "src": "images/p12/10.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p12/10.jpg",
     "w": 1201,
     "h": 1800
    }
@@ -831,25 +831,25 @@ var PROJECTS = [
   "area": "250㎡",
   "year": "2023",
   "desc": [],
-  "cover": "images/p13/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p13/01.jpg",
   "gallery": [
    {
-    "src": "images/p13/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p13/01.jpg",
     "w": 1800,
     "h": 1321
    },
    {
-    "src": "images/p13/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p13/02.jpg",
     "w": 1800,
     "h": 1549
    },
    {
-    "src": "images/p13/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p13/03.jpg",
     "w": 1598,
     "h": 1800
    },
    {
-    "src": "images/p13/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p13/04.jpg",
     "w": 1800,
     "h": 1078
    }
@@ -864,45 +864,45 @@ var PROJECTS = [
   "area": "280㎡",
   "year": "2025",
   "desc": [],
-  "cover": "images/p14/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p14/01.jpg",
   "gallery": [
    {
-    "src": "images/p14/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p14/01.jpg",
     "w": 1800,
     "h": 947
    },
    {
-    "src": "images/p14/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p14/02.jpg",
     "w": 1800,
     "h": 1000
    },
    {
-    "src": "images/p14/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p14/03.jpg",
     "w": 1800,
     "h": 1286
    },
    {
-    "src": "images/p14/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p14/04.jpg",
     "w": 1620,
     "h": 1800
    },
    {
-    "src": "images/p14/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p14/05.jpg",
     "w": 1800,
     "h": 1125
    },
    {
-    "src": "images/p14/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p14/06.jpg",
     "w": 1620,
     "h": 1800
    },
    {
-    "src": "images/p14/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p14/07.jpg",
     "w": 1800,
     "h": 900
    },
    {
-    "src": "images/p14/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p14/08.jpg",
     "w": 1800,
     "h": 1250
    }
@@ -917,50 +917,50 @@ var PROJECTS = [
   "area": "280㎡",
   "year": "2025",
   "desc": [],
-  "cover": "images/p15/06.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/06.jpg",
   "gallery": [
    {
-    "src": "images/p15/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/01.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p15/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/02.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p15/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/03.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p15/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/04.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p15/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/05.jpg",
     "w": 1800,
     "h": 1012
    },
    {
-    "src": "images/p15/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/06.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p15/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/07.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p15/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/08.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p15/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p15/09.jpg",
     "w": 1800,
     "h": 1149
    }
@@ -975,45 +975,45 @@ var PROJECTS = [
   "area": "140㎡",
   "year": "2026",
   "desc": [],
-  "cover": "images/p16/05.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p16/05.jpg",
   "gallery": [
    {
-    "src": "images/p16/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p16/01.jpg",
     "w": 1800,
     "h": 1147
    },
    {
-    "src": "images/p16/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p16/02.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p16/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p16/03.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p16/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p16/04.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p16/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p16/05.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p16/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p16/06.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p16/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p16/07.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p16/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p16/08.jpg",
     "w": 1800,
     "h": 1149
    }
@@ -1033,25 +1033,25 @@ var PROJECTS = [
    "项目引入磨房户外作为运营核心，把原本静谧康养的封闭园区，转变成面向大湾区的户外运动枢纽，兼容专业赛事、亲子体验、露营团建、装备零售、阅读休闲等复合场景。我们梳理原有院落与空地，把闲置场地转化为弹性的户外公共空间，理顺从公路到园区内部的游线，让车流转化为停留的人流。",
    "整个设计的底层逻辑，尊重存量建筑本身，将预算与精力投入到功能叙事与场景营造上，用功能的改变带动空间活力再生。"
   ],
-  "cover": "images/p17/04.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p17/04.jpg",
   "gallery": [
    {
-    "src": "images/p17/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p17/01.jpg",
     "w": 1800,
     "h": 1349
    },
    {
-    "src": "images/p17/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p17/02.jpg",
     "w": 1440,
     "h": 1080
    },
    {
-    "src": "images/p17/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p17/03.jpg",
     "w": 1080,
     "h": 1440
    },
    {
-    "src": "images/p17/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p17/04.jpg",
     "w": 1080,
     "h": 1440
    }
@@ -1071,70 +1071,70 @@ var PROJECTS = [
    "它不再只服务住客，而是变成陶溪川街区里任何人都可以进来看书、喝咖啡、小聚的地方。高频的公共消费自然带来持续的人流与自发传播，住宿业态则成为这套体验的延伸。",
    "材质与氛围上，我们用深色木构、红砖、柔和的间接光影，承接陶溪川老厂房的工业底色，在新旧交织的园区里面，营造一处安静又开放的旅居容器。"
   ],
-  "cover": "images/p18/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/01.jpg",
   "gallery": [
    {
-    "src": "images/p18/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/01.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p18/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/02.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p18/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/03.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p18/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/04.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p18/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/05.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p18/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/06.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p18/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/07.jpg",
     "w": 1800,
     "h": 1199
    },
    {
-    "src": "images/p18/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/08.jpg",
     "w": 1800,
     "h": 1199
    },
    {
-    "src": "images/p18/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/09.jpg",
     "w": 1800,
     "h": 1199
    },
    {
-    "src": "images/p18/10.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/10.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p18/11.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/11.jpg",
     "w": 1800,
     "h": 1199
    },
    {
-    "src": "images/p18/12.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/12.jpg",
     "w": 1800,
     "h": 1199
    },
    {
-    "src": "images/p18/13.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p18/13.jpg",
     "w": 1800,
     "h": 1023
    }
@@ -1153,90 +1153,90 @@ var PROJECTS = [
    "我们需要找到一条路径，不靠高价材料堆砌，也能让客人感受到物超所值，支撑更高的客房定价。最终选择用深色体系统一建筑与室内，深色自带沉静厚重的质感，可以抹平不同材料之间的造价差距，在山林背景里安静落地。",
    "同时我们重构入场的仪式感：把大堂向后退让，避开公路干扰，客人先过门廊、见水景、穿过庭院小径，才抵达大堂，用一段缓慢的行走完成心境切换。场地核心预留整片开阔草坪，作为灵活的公共基底，承接团建、露营、亲子活动，补足近郊配套缺失，让民宿不止是住宿，更是可以承载多样山野活动的目的地。"
   ],
-  "cover": "images/p19/01.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/01.jpg",
   "gallery": [
    {
-    "src": "images/p19/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/01.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p19/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/02.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p19/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/03.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p19/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/04.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p19/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/05.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p19/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/06.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p19/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/07.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p19/08.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/08.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p19/09.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/09.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p19/10.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/10.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p19/11.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/11.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p19/12.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/12.jpg",
     "w": 1800,
     "h": 1149
    },
    {
-    "src": "images/p19/13.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/13.jpg",
     "w": 1800,
     "h": 1148
    },
    {
-    "src": "images/p19/14.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/14.jpg",
     "w": 1280,
     "h": 1707
    },
    {
-    "src": "images/p19/15.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/15.jpg",
     "w": 1280,
     "h": 1707
    },
    {
-    "src": "images/p19/16.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/16.jpg",
     "w": 1800,
     "h": 1350
    },
    {
-    "src": "images/p19/17.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p19/17.jpg",
     "w": 1440,
     "h": 1080
    }
@@ -1256,40 +1256,40 @@ var PROJECTS = [
    "设计延续片区低干预修缮原则，保留原有红砖墙体、木构、坡屋顶等场地原生构件与岁月痕迹，清理后期杂乱加建，梳理内部空间格局。建筑面向内巷营造连续、舒缓的步行界面，用红砖、原木等在地化材料，承接直向建筑对于遗存「尊重时间、轻量介入」的设计内核；空间上兼顾民宿客房的静谧居住属性与街区公共性，院落、巷道作为书店文化动线的延伸，让访客在阅读体验之外，获得可停留、可栖居的沉浸式老城体验。",
    "作为与大师团队协同的分项设计，本次工作重点在于在统一的整体叙事框架下，平衡文化公共性、民宿居住功能、历史建筑保护三者关系，让住宿业态成为先锋书店文化生态的有机补充，共同完成东江老船厂从工业遗址到持续生长的人文社区的转型。"
   ],
-  "cover": "images/p20/02.jpg",
+  "cover": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p20/02.jpg",
   "gallery": [
    {
-    "src": "images/p20/01.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p20/01.jpg",
     "w": 1800,
     "h": 1015
    },
    {
-    "src": "images/p20/02.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p20/02.jpg",
     "w": 1800,
     "h": 1017
    },
    {
-    "src": "images/p20/03.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p20/03.jpg",
     "w": 1248,
     "h": 699
    },
    {
-    "src": "images/p20/04.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p20/04.jpg",
     "w": 1800,
     "h": 1033
    },
    {
-    "src": "images/p20/05.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p20/05.jpg",
     "w": 1800,
     "h": 1005
    },
    {
-    "src": "images/p20/06.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p20/06.jpg",
     "w": 1800,
     "h": 1036
    },
    {
-    "src": "images/p20/07.jpg",
+    "src": "https://chenhaowen.oss-cn-guangzhou.aliyuncs.com/p20/07.jpg",
     "w": 1800,
     "h": 1023
    }
