@@ -707,7 +707,7 @@ var PROJECTS = [
   "cat": "commercial",
   "catName": "商业空间",
   "title": "栖舞艺术空间",
-  "location": "汕尾",
+  "location": "惠州",
   "area": "600㎡",
   "year": "2026",
   "desc": [
